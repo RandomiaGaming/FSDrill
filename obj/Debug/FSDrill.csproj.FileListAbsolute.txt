@@ -1,0 +1,7 @@
+D:\Coding\C#\FSDrill\bin\Debug\FSDrill.exe.config
+D:\Coding\C#\FSDrill\bin\Debug\FSDrill.exe
+D:\Coding\C#\FSDrill\bin\Debug\FSDrill.pdb
+D:\Coding\C#\FSDrill\obj\Debug\FSDrill.csproj.AssemblyReference.cache
+D:\Coding\C#\FSDrill\obj\Debug\FSDrill.csproj.CoreCompileInputs.cache
+D:\Coding\C#\FSDrill\obj\Debug\FSDrill.exe
+D:\Coding\C#\FSDrill\obj\Debug\FSDrill.pdb
